@@ -16,3 +16,9 @@ $ npm info live-server
 $ npm install --save-dev live-server@1.2.1
 
 $ ./node_modules/.bin/live-server
+
+---
+
+## Run
+
+$ npx live-server
