@@ -59,3 +59,6 @@ module.exports = {
     }
 }
 ``` 
+
+
+$ npx webpack --mode development
